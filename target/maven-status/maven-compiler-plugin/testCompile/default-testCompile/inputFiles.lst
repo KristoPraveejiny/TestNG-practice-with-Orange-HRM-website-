@@ -1,1 +1,4 @@
-D:\Praveena\OrangeHRM Selenium TestNG\TestNGPractice\src\test\java\com\testng\practice\AppTest.java
+D:\Praveena\OrangeHRM Selenium TestNG\TestNGPractice\src\test\java\com\testng\practice\LoginTestcases\BothCorrect.java
+D:\Praveena\OrangeHRM Selenium TestNG\TestNGPractice\src\test\java\com\testng\practice\LoginTestcases\BothIncorrect.java
+D:\Praveena\OrangeHRM Selenium TestNG\TestNGPractice\src\test\java\com\testng\practice\LoginTestcases\CorrectPassword.java
+D:\Praveena\OrangeHRM Selenium TestNG\TestNGPractice\src\test\java\com\testng\practice\LoginTestcases\CorrectUsername.java
