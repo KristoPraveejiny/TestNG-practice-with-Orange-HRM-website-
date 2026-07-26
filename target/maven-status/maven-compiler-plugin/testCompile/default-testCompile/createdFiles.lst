@@ -1,0 +1,4 @@
+com\testng\practice\LoginTestcases\BothCorrect.class
+com\testng\practice\LoginTestcases\CorrectPassword.class
+com\testng\practice\LoginTestcases\BothIncorrect.class
+com\testng\practice\LoginTestcases\CorrectUsername.class
