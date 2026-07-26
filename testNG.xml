@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="My Suite" parallel="methods" thread-count="2">
+
+    <test name="Practice Tests">
+        <parameter name="Name" value="Amali"></parameter>
+
+        <classes>
+
+            <class name="com.example.driveacarpriority"/>
+            <class name="com.example.Skiptestcase"/>
+            <class name="com.example.testcase"/>
+            <class name="com.example.writetestsuite"/>
+            <class name="com.example.parameterization"/>
+            <class name="com.example.parallel"/>
+
+        </classes>
+
+    </test>
+
+</suite>
